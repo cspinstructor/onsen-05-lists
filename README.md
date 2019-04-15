@@ -1,5 +1,5 @@
-# Onsen splitter (side panel)
+# Onsen lists
 
-To demonstrate Onsen splitter
+To demonstrate Onsen lists
 
 
